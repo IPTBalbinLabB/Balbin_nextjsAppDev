@@ -1,2 +1,2 @@
 # Balbin_nextjsAppDev
-"My nextjs repository on GitHub."
+"My First nextjs repository on GitHub."
